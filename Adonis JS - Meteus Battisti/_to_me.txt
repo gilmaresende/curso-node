@@ -1,0 +1,28 @@
+ok - 00:00 - Intro/O que é o AdonisJS
+ok - 05:08 - O que vamos criar?
+ok - 06:39 - Pré requisitos
+ok - 07:51 - O que vamos precisar?
+ok - 8:33 - Instalação de dependências
+ok - 10:38 - Iniciando o projeto
+ok - 12:54 - Iniciando os trabalhos com AdonisJS
+ok - 14:00 - Conhecendo as rotas
+ok - 14:19 - Criando uma collection no Postman
+ok - 16:53 - Instalando um BD
+ok - 19:11 - Configurando o CORS
+ok - 21:53 - Models
+ok - 26:12 - Migration
+ok - 27:54 - Visualizando as migrations
+ok - 29:05 - Controllers
+ok - 32:26 - Simplificando rotas
+ok - 34:03 - Inserindo dados no BD
+ok - 38:40 - Upload de imagem
+ok - 45:25 - Buscando todos os registros
+ok - 47:05 - Buscando por id
+ok - 49:13 - Removendo registros
+ok - 51:19 - Atualizando um registro
+ok - 56:30 - Criando o model Comment
+ok - 58:10 - Efetuando a relações
+ok - 1:01:30 - Criando um controller
+ok - 1:02:55 - Criando o método store
+ok - 1:08:43 - Exibindo os comentários junto com os momentos
+ok - 1:10:43 - Finalizando
